@@ -6,5 +6,5 @@
   "remote_port": 443,
   "password": "onplus",
   "timeout": 600,
-  "method": "aes-256-gcm"
+  "method": "aes-256-cfb"
 }
