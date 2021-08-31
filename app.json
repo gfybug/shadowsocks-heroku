@@ -4,7 +4,7 @@
   "env": {
     "METHOD": {
       "description": "加密算法",
-      "value": "aes-256-gcm"
+      "value": "aes-256-cfb"
     },
     "KEY": {
       "description": "app-password",
